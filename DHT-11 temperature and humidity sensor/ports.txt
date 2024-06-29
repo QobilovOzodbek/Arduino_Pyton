@@ -1,0 +1,4 @@
+DHT-11              Arduino
+GND                 GND
+VCC                 5V
+DAT                 D2
