@@ -1,0 +1,8 @@
+SDA -> Pin 10 (SS)
+SCK -> Pin 13
+MOSI -> Pin 11
+MISO -> Pin 12
+IRQ -> Hech qayerga ulanmaydi
+GND -> GND
+RST -> Pin 9
+3.3V -> 3.3V
